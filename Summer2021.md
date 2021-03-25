@@ -1,0 +1,20 @@
+Date  |  Speaker                                            |  Title                                                                                                |  Room
+---------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------
+3-May   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+10-May   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+17-May   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+24-May   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+31-May   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+7-Jun   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+14-Jun   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+21-Jun   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+28-Jun   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+5-Jul   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+12-Jul   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+19-Jul   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+26-Jul   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+2-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+9-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+16-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+23-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+30-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
