@@ -1,10 +1,10 @@
 Date  |  Speaker                                            |  Title                                                                                                |  Room
 ---------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------
 3-May   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
-10-May   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+10-May   |  Kelly Graves                                             |  TBA                                                                                          |  Zoom
 17-May   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
-24-May   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
-31-May   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+24-May   |  N/A                                             |  ~Holiday~                                                                                           |  Zoom
+31-May   |  Birgit Rogalla                                             |  TBA                                                                                           |  Zoom
 7-Jun   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
 14-Jun   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
 21-Jun   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
