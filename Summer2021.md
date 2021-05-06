@@ -5,7 +5,7 @@ Date  |  Speaker                                            |  Title            
 17-May   | Ken Ashley                                             |  TBA                                                                                          |  Zoom
 24-May   |  N/A                                             |  Holiday!                                                                                           |  Zoom
 31-May   |  Birgit Rogalla                                             |  TBA                                                                                           |  Zoom
-7-Jun   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+7-Jun   |  Parker MacCready                                             |  TBA                                                                                           |  Zoom
 14-Jun   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
 21-Jun   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
 28-Jun   |  Gregory Lawrence                                             |  TBA                                                                                           |  Zoom
