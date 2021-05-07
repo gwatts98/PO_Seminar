@@ -1,7 +1,7 @@
 Date  |  Speaker                                            |  Title                                                                                                |  Room
 ---------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------
 3-May   |  Laura Crews                                             |  Meltwater advections hastens freeze up: Observations from the Beaufort Sea in Autumn 2018                                                                                           |  Zoom
-10-May   |  Kelly Graves                                             |  TBA                                                                                          |  Zoom
+10-May   |  Kelly Graves                                             |  Fall turnover in a small but deep, dimictic lake with ice-cover                                                                                          |  Zoom
 17-May   | Ken Ashley                                             |  TBA                                                                                          |  Zoom
 24-May   |  N/A                                             |  Holiday!                                                                                           |  Zoom
 31-May   |  Birgit Rogalla                                             |  TBA                                                                                           |  Zoom
