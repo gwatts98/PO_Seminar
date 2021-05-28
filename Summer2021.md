@@ -4,10 +4,10 @@ Date  |  Speaker                                            |  Title            
 10-May   |  Kelly Graves                                             |  Fall turnover in a small but deep, dimictic lake with ice-cover                                                                                          |  Zoom
 17-May   | Ken Ashley                                             |  Fraser River Estuary                                                                                          |  Zoom
 24-May   |  N/A                                             |  Holiday!                                                                                           |  Zoom
-31-May   |  Birgit Rogalla                                             |  TBA                                                                                           |  Zoom
+31-May   |  N/A                                             |  No seminar today!                                                                                           |  Zoom
 7-Jun   |  Parker MacCready                                             |  TBA                                                                                           |  Zoom
 14-Jun   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
-21-Jun   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+21-Jun   |  Birgit Rogalla                                             |  TBA                                                                                           |  Zoom
 28-Jun   |  Gregory Lawrence                                             |  TBA                                                                                           |  Zoom
 5-Jul   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
 12-Jul   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
