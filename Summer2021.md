@@ -5,7 +5,7 @@ Date  |  Speaker                                            |  Title            
 17-May   | Ken Ashley                                             |  Fraser River Estuary                                                                                          |  Zoom
 24-May   |  N/A                                             |  Holiday!                                                                                           |  Zoom
 31-May   |  N/A                                             |  No seminar today!                                                                                           |  Zoom
-7-Jun   |  Parker MacCready                                             |  TBA                                                                                           |  Zoom
+7-Jun   |  Parker MacCready                                             |  Estuarine Circulation of the Salish Sea                                                                                           |  Zoom
 14-Jun   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
 21-Jun   |  Birgit Rogalla                                             |  TBA                                                                                           |  Zoom
 28-Jun   |  Gregory Lawrence                                             |  TBA                                                                                           |  Zoom
