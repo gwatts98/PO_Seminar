@@ -8,11 +8,11 @@ Date  |  Speaker                                            |  Title            
 7-Jun   |  Parker MacCready                                             |  Estuarine Circulation of the Salish Sea                                                                                           |  Zoom
 14-Jun   |  N/A                                           |  No seminar today!                                                                                           |  Zoom
 21-Jun   |  Birgit Rogalla                                             |  Masks, long nights, and cool sea ice: fieldwork in the Beaufort Sea during Covid                                                                                           |  Zoom
-28-Jun   |  Gregory Lawrence                                             |  TBA                                                                                           |  Zoom
+28-Jun   |  Susan Allen                                             |  Waves over Topography in a Rotating World: Upwelling induced by coastal trapped waves over a submarine canyon                                                                                           |  Zoom
 5-Jul   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
 12-Jul   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
 19-Jul   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
-26-Jul   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+26-Jul   |  Gregory Lawrence                                            |  TBA                                                                                           |  Zoom
 2-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
 9-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
 16-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
