@@ -15,6 +15,6 @@ Date  |  Speaker                                            |  Title            
 26-Jul   |  Gregory Lawrence                                            |  TBA                                                                                           |  Zoom
 2-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
 9-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
-16-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+16-Aug   |  Mika Siegelman                                             |  TBA                                                                                           |  Zoom
 23-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
 30-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
