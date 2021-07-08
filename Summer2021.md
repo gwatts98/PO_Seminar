@@ -16,5 +16,5 @@ Date  |  Speaker                                            |  Title            
 2-Aug   |  Sofia Darmaraki                                             |  TBA                                                                                           |  Zoom
 9-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
 16-Aug   |  Mika Siegelman                                             |  TBA                                                                                           |  Zoom
-23-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
-30-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+23-Aug   |  Ben Moore-Maley                                             |  TBA                                                                                           |  Zoom
+30-Aug   |  Silvia Innocenti                                             |  TBA                                                                                          |  Zoom
