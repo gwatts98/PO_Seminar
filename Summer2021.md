@@ -10,11 +10,11 @@ Date  |  Speaker                                            |  Title            
 21-Jun   |  Birgit Rogalla                                             |  Masks, long nights, and cool sea ice: fieldwork in the Beaufort Sea during Covid                                                                                           |  Zoom
 28-Jun   |  Susan Allen                                             |  Waves over Topography in a Rotating World: Upwelling induced by coastal trapped waves over a submarine canyon                                                                                           |  Zoom
 5-Jul   |  N/A                                             |  No seminar today!                                                                                           |  Zoom
-12-Jul   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
-19-Jul   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
-26-Jul   |  Gregory Lawrence                                            |  TBA                                                                                           |  Zoom
-2-Aug   |  Sofia Darmaraki                                             |  TBA                                                                                           |  Zoom
-9-Aug   |  <!--Speaker  here -->                                             |  <!--Title here-->                                                                                           |  Zoom
+12-Jul   |  N/A                                             |  No seminar today!                                                                                          |  Zoom
+19-Jul   |  N/A                                             |  No seminar today!                                                                                           |  Zoom
+26-Jul   |  Gregory Lawrence                                            |  Instabilities and Mixing in Stratified Shear Flows                                                                                           |  Zoom
+2-Aug   |  Holiday!                                             |  N/A                                                                                           |  Zoom
+9-Aug   |  Sofia Darmaraki                                             |  TBA                                                                                           |  Zoom
 16-Aug   |  Mika Siegelman                                             |  TBA                                                                                           |  Zoom
 23-Aug   |  Ben Moore-Maley                                             |  TBA                                                                                           |  Zoom
 30-Aug   |  Silvia Innocenti                                             |  TBA                                                                                          |  Zoom
