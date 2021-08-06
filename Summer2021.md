@@ -14,7 +14,7 @@ Date  |  Speaker                                            |  Title            
 19-Jul   |  N/A                                             |  No seminar today!                                                                                           |  Zoom
 26-Jul   |  Gregory Lawrence                                            |  Instabilities and Mixing in Stratified Shear Flows                                                                                           |  Zoom
 2-Aug   |  Holiday!                                             |  N/A                                                                                           |  Zoom
-9-Aug   |  Sofia Darmaraki                                             |  TBA                                                                                           |  Zoom
+9-Aug   |  Sofia Darmaraki                                             |  On the marine heatwaves: Physical drivers and challenges                                                                                           |  Zoom
 16-Aug   |  Mika Siegelman                                             |  TBA                                                                                           |  Zoom
 23-Aug   |  Ben Moore-Maley                                             |  TBA                                                                                           |  Zoom
 30-Aug   |  Silvia Innocenti                                             |  TBA                                                                                          |  Zoom
