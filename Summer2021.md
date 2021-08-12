@@ -15,6 +15,6 @@ Date  |  Speaker                                            |  Title            
 26-Jul   |  Gregory Lawrence                                            |  Instabilities and Mixing in Stratified Shear Flows                                                                                           |  Zoom
 2-Aug   |  Holiday!                                             |  N/A                                                                                           |  Zoom
 9-Aug   |  Sofia Darmaraki                                             |  On the marine heatwaves: Physical drivers and challenges                                                                                           |  Zoom
-16-Aug   |  Mika Siegelman                                             |  TBA                                                                                           |  Zoom
+16-Aug   |  Mika Siegelman                                             |  Near-inertial surface currents around islands                                                                                           |  Zoom
 23-Aug   |  Ben Moore-Maley                                             |  TBA                                                                                           |  Zoom
 30-Aug   |  Silvia Innocenti                                             |  TBA                                                                                          |  Zoom
