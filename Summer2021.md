@@ -17,4 +17,4 @@ Date  |  Speaker                                            |  Title            
 9-Aug   |  Sofia Darmaraki                                             |  On the marine heatwaves: Physical drivers and challenges                                                                                           |  Zoom
 16-Aug   |  Mika Siegelman                                             |  Near-inertial surface currents around islands                                                                                           |  Zoom
 23-Aug   |  Ben Moore-Maley                                             |  Wind-driven summer surface nutrient delivery in the Strait of Georgia                                                                                           |  Zoom
-30-Aug   |  Silvia Innocenti                                             |  TBA                                                                                          |  Zoom
+30-Aug   |  N/A                                             |  No seminar today!                                                                                          |  Zoom
