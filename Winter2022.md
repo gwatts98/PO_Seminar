@@ -3,8 +3,7 @@ Date  |  Speaker                                            |  Title            
 10-Jan   |  Debby Ianson                                             |  TBA                                                                                           |  Zoom?
 17-Jan   |                                            |                                                                                            |  Zoom
 24-Jan   |                                               |                                                                                           |  Zoom
-31-Jan   |                                          
-|                                                                                            |  Zoom
+31-Jan   |                                               |                                                                                           |  Zoom
 7-Feb   |                                             |                                                                                              |  Zoom
 14-Feb   |                                               |                                                                                            |  Zoom
 21-Feb   |  N/A                                           |  Family Day!                                                                                          |  Zoom
