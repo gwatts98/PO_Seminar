@@ -1,17 +1,17 @@
 Date  |  Speaker                                            |  Title                                                                                                |  Room
 ---------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------
-10-Jan   |  Debby Ianson                                             |  TBA                                                                                           |  Zoom?
-17-Jan   |  Acacia Markov                                         |  TBA                                                                                          |  Zoom
-24-Jan   |                                               |                                                                                           |  Zoom
-31-Jan   |                                               |                                                                                           |  Zoom
-7-Feb   |                                             |                                                                                              |  Zoom
-14-Feb   |                                               |                                                                                            |  Zoom
-21-Feb   |  N/A                                           |  Family Day!                                                                                          |  Zoom
-28-Feb   |                                             |                                                                                              |  Zoom
-7-Mar   |                                                |                                                                                             |  Zoom
-14-Mar   |                                              |                                                                                             |  Zoom
-21-Mar   |                                              |                                                                                              |  Zoom
-4-Apr   |                                             |                                                                                             |  Zoom
-11-Apr   |                                            |                                                                                              |  Zoom
-18-Apr   |  N/A                                             |  Easter Monday!                                                                                           |  Zoom
-25-Apr   |                                            |                                                                                             |  Zoom
+13-Jan   |  Debby Ianson                                             |  TBA                                                                                           |  Zoom + ESB 5104
+20-Jan   |  Acacia Markov                                         |  TBA                                                                                          |  Zoom + ESB 5104
+27-Jan   |  Connor Henderson                                          |  TBA                                                                                       |  Zoom + ESB 5104
+3-Feb   |   Christine Baker                                            |  TBA                                                                                    |  Zoom + ESB 5104
+10-Feb   |                                            |                                                                                              |  Zoom + ESB 5104
+17-Feb   |                                               |                                                                                            |  Zoom + ESB 5104
+24-Feb   |                                            |                                                                                           |  Zoom + ESB 5104
+3-Mar   |                                             |                                                                                              |  Zoom + ESB 5104
+10-Mar   |                                                |                                                                                             |  Zoom + ESB 5104
+17-Mar   |  Tara Howatt                                          |  TBA                                                                                        |  Zoom + ESB 5104
+24-Mar   |  Arnaud Valcarcel                                              |  TBA                                                                                            |  Zoom + ESB 5104
+7-Apr   |                                             |                                                                                             |  Zoom + ESB 5104
+14-Apr   |                                            |                                                                                              |  Zoom + ESB 5104
+21-Apr   |                                              |                                                                                             |  Zoom + ESB 5104
+28-Apr   |                                            |                                                                                             |  Zoom + ESB 5104
