@@ -1,6 +1,6 @@
 Date  |  Speaker                                            |  Title                                                                                                |  Room
 ---------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------
-13-Jan   |  Debby Ianson                                             |  TBA                                                                                           |  Zoom
+13-Jan   |  N/A                                             |  No speaker today!                                                                                         |  Zoom
 20-Jan   |  Acacia Markov                                         |  TBA                                                                                          |  Zoom
 27-Jan   |  Connor Henderson                                          |  TBA                                                                                       |  Zoom + ESB 5104
 3-Feb   |   Christine Baker                                            |  TBA                                                                                    |  Zoom + ESB 5104
