@@ -7,12 +7,12 @@ Date  |  Speaker                                            |  Title            
 10-Feb   | Research Carnival                                       |                                                                                              |  Zoom + ESB 5104
 17-Feb   |                                               |                                                                                            |  Zoom + ESB 5104
 24-Feb   |                                            |                                                                                           |  Zoom + ESB 5104
-3-Mar   |   Debby Ianson                                          |  TBA                                                                                            |  Zoom + ESB 5104
+3-Mar   |   Debby Ianson                                          |  The physical controls of the inorganic carbon system in fjords                                                                                            |  Zoom + ESB 5104
 10-Mar   |  Rachael Mueller                                              |  TBA                                                                                           |  Zoom + ESB 5104
 17-Mar   |  Tara Howatt                                          |  TBA                                                                                        |  Zoom + ESB 5104
 24-Mar   |  Arnaud Valcarcel                                              |  TBA                                                                                            |  Zoom + ESB 5104
-31-Mar   |                                             |                                                                                             |  Zoom + ESB 5104
-7-Apr   |                                             |                                                                                             |  Zoom + ESB 5104
-14-Apr   |                                            |                                                                                              |  Zoom + ESB 5104
+31-Mar   | Shumin Li                                           |  TBA                                                                                           |  Zoom + ESB 5104
+7-Apr   | Ryan Osman                                            |  TBA                                                                                         |  Zoom + ESB 5104
+14-Apr   | Armaan Randhawa & Lananya Kandhari                                           |  TBA                                                                                            |  Zoom + ESB 5104
 21-Apr   |   Cole Lord-May                                           |  TBA                                                                                           |  Zoom + ESB 5104
 28-Apr   |    Rafael Santana                                        |  The East Auckland Current variability and its impact on the continental shelf circulation                                                                                           |  Zoom + ESB 5104
