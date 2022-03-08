@@ -4,11 +4,11 @@ Date  |  Speaker                                            |  Title            
 20-Jan   |  Acacia Markov                                         |   Nature-based solutions for coastal erosion protection                                                                                          |  Zoom
 27-Jan   |  Connor Henderson                                          |  Exploring eddy geometry as a metric of eddy-mean flow interactions in a mixed instability jet                                                                                       |  Zoom + ESB 5104
 3-Feb   |   Christine Baker                                            |  Remotely sensed short-crested breaking waves and transient rip currents in a laboratory wave basin                                                                                    |  Zoom + ESB 5104
-10-Feb   | Research Carnival                                       |                                                                                              |  Zoom + ESB 5104
-17-Feb   |                                               |                                                                                            |  Zoom + ESB 5104
-24-Feb   |                                            |                                                                                           |  Zoom + ESB 5104
+10-Feb   | Research Carnival                                       |  N/A                                                                                            |  Zoom + ESB 5104
+17-Feb   |  N/A                                             |  No speaker today!                                                                                          |  Zoom + ESB 5104
+24-Feb   |  N/A                                          |  No speaker today!                                                                                         |  Zoom + ESB 5104
 3-Mar   |   Debby Ianson                                          |  The physical controls of the inorganic carbon system in fjords                                                                                            |  Zoom + ESB 5104
-10-Mar   |  Rachael Mueller                                              |  TBA                                                                                           |  Zoom + ESB 5104
+10-Mar   |  Rachael Mueller                                              |  A statistical representation of oil spill fate in the Salish Sea                                                                                           |  Zoom + ESB 5104
 17-Mar   |  Tara Howatt                                          |  TBA                                                                                        |  Zoom + ESB 5104
 24-Mar   |  Arnaud Valcarcel                                              |  TBA                                                                                            |  Zoom + ESB 5104
 31-Mar   | Shumin Li                                           |  TBA                                                                                           |  Zoom + ESB 5104
