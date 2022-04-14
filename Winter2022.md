@@ -13,7 +13,10 @@ Date  |  Speaker                                            |  Title            
 24-Mar   | N/A                                               |  No speaker today!                                                                                            |  Zoom + ESB 5104
 31-Mar   | Shumin Li                                           |  Tidal Influence on the Fraser River Plume                                                                                           |  Zoom + ESB 5104
 7-Apr   | Ryan Osman                                            |  Environmental Communication: combining photography and science                                                                                         |  Zoom + ESB 5104
-14-Apr   | Armaan Randhawa & Lananya Kandhari                                           |  TBA                                                                                            |  Zoom + ESB 5104
+14-Apr   | Armaan Randhawa & Lananya Kandhari                                           |  Coop Student Presentations!                                                                                            |  Zoom + ESB 5104
 21-Apr   |   Cole Lord-May                                           |  TBA                                                                                           |  Zoom + ESB 5104
 28-Apr   |    Rafael Santana                                        |  The East Auckland Current variability and its impact on the continental shelf circulation                                                                                           |  Zoom + ESB 5104
 5-May   |    Arnaud Valcarcel                                       |  TBA                                                                                           |  Zoom + ESB 5104
+12-May   |    N/A                                       |  No PO Seminar Today!                                                                                           |  Zoom + ESB 5104
+19-May   |                                           |                                                                                             |  Zoom + ESB 5104
+26-May   |    Becca Beutel                                       |  TBA                                                                                           |  Zoom + ESB 5104
