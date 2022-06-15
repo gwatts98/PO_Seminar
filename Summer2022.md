@@ -13,7 +13,7 @@ Date  |  Speaker                                            |  Title            
 14-Jul   | TBA                                           |                                                                |  Zoom & ESB 5104
 21-Jul   | TBA                                           |                                                                |  Zoom & ESB 5104
 28-Jul   | TBA                                           |                                                                |  Zoom & ESB 5104
-4-Aug    | TBA                                           |                                                                |  Zoom & ESB 5104
+4-Aug    | Krysten Rutherford                            |                                                                |  Zoom & ESB 5104
 11-Aug   | TBA                                           |                                                                |  Zoom & ESB 5104
 18-Aug   | TBA                                           |                                                                |  Zoom & ESB 5104
 25-Aug   | TBA                                           |                                                                |  Zoom & ESB 5104
