@@ -12,9 +12,9 @@ Date  |  Speaker                                            |  Title            
 7-Jul    | Mina Masoud                                   |  Sea Breeze Paper                                              |  Zoom & ESB 5104
 14-Jul   | TBA                                           |                                                                |  Zoom & ESB 5104
 21-Jul   | TBA                                           |                                                                |  Zoom & ESB 5104
-28-Jul   | TBA                                           |                                                                |  Zoom & ESB 5104
+28-Jul   | Shiliang Shan                                 |                                                                |  Zoom & ESB 5104
 4-Aug    | Krysten Rutherford                            |                                                                |  Zoom & ESB 5104
 11-Aug   | TBA                                           |                                                                |  Zoom & ESB 5104
 18-Aug   | TBA                                           |                                                                |  Zoom & ESB 5104
-25-Aug   | TBA                                           |                                                                |  Zoom & ESB 5104
+25-Aug   | Reserved for summer co-op students            |                                                                |  Zoom & ESB 5104
 
