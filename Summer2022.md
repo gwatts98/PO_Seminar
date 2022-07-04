@@ -9,7 +9,7 @@ Date  |  Speaker                                            |  Title            
 16-Jun   | Tereza Jarnikova                              |  A submesoscale modelling approach to understanding the past, present and future carbonate chemistry of the Salish Sea    |  Zoom & ESB 5108
 23-Jun   | TBA                                           |                                                                |  Zoom & ESB 5104
 30-Jun   | Mathilde Jutras                               |  Classification of Lagrangian trajectories in the Labrador Current with a Machine Learning algorithm   |  Zoom & ESB 5104
-7-Jul    | Mina Masoud                                   |  Sea Breeze Paper                                              |  Zoom & ESB 5104
+7-Jul    | Mina Masoud                                   |  An Intermittent Rotationally-Modified Gravity Current in the Deep Water of the Strait of Georgia     |  Zoom & ESB 5104
 14-Jul   | TBA                                           |                                                                |  Zoom & ESB 5104
 21-Jul   | TBA                                           |                                                                |  Zoom & ESB 5104
 28-Jul   | Shiliang Shan                                 |                                                                |  Zoom & ESB 5104
