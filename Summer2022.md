@@ -15,6 +15,6 @@ Date  |  Speaker                                            |  Title            
 28-Jul   | Shiliang Shan                                 |                                                                |  Zoom & ESB 5104
 4-Aug    | Krysten Rutherford                            |                                                                |  Zoom & ESB 5104
 11-Aug   | TBA                                           |                                                                |  Zoom & ESB 5104
-18-Aug   | TBA                                           |                                                                |  Zoom & ESB 5104
+18-Aug   | Elli Cunningham & Sam Stevens                 |  TBA                                                           |  Zoom & ESB 5104
 25-Aug   | Reserved for summer co-op students            |                                                                |  Zoom & ESB 5104
 
