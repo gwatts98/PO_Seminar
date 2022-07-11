@@ -11,10 +11,10 @@ Date  |  Speaker                                            |  Title            
 30-Jun   | Mathilde Jutras                               |  Classification of Lagrangian trajectories in the Labrador Current with a Machine Learning algorithm   |  Zoom & ESB 5104
 7-Jul    | Mina Masoud                                   |  An Intermittent Rotationally-Modified Gravity Current in the Deep Water of the Strait of Georgia     |  Zoom & ESB 5104
 14-Jul   | -----                                         |  No seminar today!                                             |  Zoom & ESB 5104
-21-Jul   | Christopher Peck                              |  TBA                                                           |  Zoom & ESB 5104
-28-Jul   | Shiliang Shan                                 |                                                                |  Zoom & ESB 5104
-4-Aug    | Krysten Rutherford                            |                                                                |  Zoom & ESB 5104
-11-Aug   | TBA                                           |                                                                |  Zoom & ESB 5104
+21-Jul   | Christopher Peck                              |  The Southern expansion of the La Grande river plume           |  Zoom & ESB 5104
+28-Jul   | Shiliang Shan                                 |  TBA                                                           |  Zoom & ESB 5104
+4-Aug    | Krysten Rutherford                            |  TBA                                                           |  Zoom & ESB 5104
+11-Aug   | Reint                                         |                                                                |  Zoom & ESB 5104
 18-Aug   | Summer co-op students (Elli and Becky)        |  Summer co-op students' projects                               |  Zoom & ESB 5104
 25-Aug   | TBA                                           |                                                                |  Zoom & ESB 5104
 
