@@ -14,7 +14,7 @@ Date  |  Speaker                                            |  Title            
 21-Jul   | Christopher Peck                              |  Characterizing the La Grande river plume and its expansion    |  Zoom & ESB 5104
 28-Jul   | Shiliang Shan                                 |  Wind-driven Coastal Upwelling on the Scotian Shelf            |  Zoom & ESB 5104
 4-Aug    | N/A                                           |  No seminar today!                                             |  Zoom & ESB 5104
-11-Aug   | Reint Fischer                                 |  TBA                                                           |  Zoom & ESB 5104
+11-Aug   | Reint Fischer                                 |  Modelling submerged biofouled microplastics and their vertical trajectories  |  Zoom & ESB 5104
 18-Aug   | Summer co-op students (Elli and Becky)        |  Summer co-op students' projects                               |  Zoom & ESB 5104
 25-Aug   | TBA                                           |                                                                |  Zoom & ESB 5104
 
