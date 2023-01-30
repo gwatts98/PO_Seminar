@@ -4,7 +4,7 @@ Date  |  Speaker                                            |  Title            
 30-Jan   | Ruiqi Li                                      |  Fantastic Bivalves and Where to Find Them.                    |  Zoom & ESB 5104
 06-Feb   | Kate Schuler                                  |  TBD                                                           |  Zoom & ESB 5104
 13-Feb   | Prodigy I (Drifters)                          |  DIY drifters in a Chilean Fjord                               |  Zoom & ESB 5104
-20-Feb   | Familidy Day Break!                           |  N/A                                                           |  Zoom & ESB 5104
+20-Feb   | No PO Seminar Today!                          |  Happy Family Day!                                             |  Zoom & ESB 5104
 27-Feb   | Prodigy II (Carnival)                         |  Multiple topics                                               |  Zoom & ESB 5104
 06-Mar   | Becca Beutel                                  |  TBD                                                           |  Zoom & ESB 5104
 13-Mar   | TBD                                           |  TBD                                                           |  Zoom & ESB 5104
