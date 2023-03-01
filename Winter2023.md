@@ -9,7 +9,7 @@ Date  |  Speaker                                            |  Title            
 06-Mar   | Becca Beutel                                  |  TBD                                                           |  Zoom & ESB 5104
 13-Mar   | TBD                                           |  TBD                                                           |  Zoom & ESB 5104
 20-Mar   | Peter Sutherland                              |  TBD                                                           |  Zoom & ESB 5104
-27-Mar   | TBD                                           |  TBD                                                           |  Zoom & ESB 5104
+27-Mar   | Sacchidanandan Pillai                         |  TBD                                                           |  Zoom & ESB 5104
 06-Mar   | TBD                                           |  TBD                                                           |  Zoom & ESB 5108
 03-Apr   | TBD                                           |  TBD                                                           |  Zoom & ESB 5108
 10-Apr   | TBD                                           |  TBD                                                           |  Zoom & ESB 5104
