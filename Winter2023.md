@@ -14,4 +14,4 @@ Date  |  Speaker                                            |  Title            
 03-Apr   | TBD                                           |  TBD                                                           |  Zoom & ESB 5108
 10-Apr   | TBD                                           |  TBD                                                           |  Zoom & ESB 5104
 17-Apr   | TBD                                           |  TBD                                                           |  Zoom & ESB 5104
-24-Apr   | TBD                                           |  TBD                                                           |  Zoom & ESB 5104
+24-Apr   | Zhihua Zheng                                  |  TBD                                                           |  Zoom & ESB 5104
