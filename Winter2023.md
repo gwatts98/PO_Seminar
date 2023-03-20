@@ -13,4 +13,4 @@ Date  |  Speaker                                            |  Title            
 03-Apr   | TBD                                           |  TBD                                                           |  Zoom & ESB 5108
 10-Apr   | No PO Seminar Today!                          |  Happy Easter Break!                                           |  Zoom & ESB 5104
 17-Apr   | Rahim + Rich                                  |  TBD                                                           |  Zoom & ESB 5104
-24-Apr   | TBD                                           |  TBD                                                           |  Zoom & ESB 5104
+24-Apr   | Wenjing Liu                                   |  TBD                                                           |  Zoom & ESB 5104
