@@ -9,7 +9,7 @@ Date  |  Speaker                                            |  Title            
 06-Mar   | Becca Beutel                                  |  Seasonal and interannual Salish Sea inflow origins using Lagrangian tracking   |  Zoom & ESB 5104
 13-Mar   | TBD                                           |  TBD                                                           |  Zoom & ESB 5104
 20-Mar   | Peter Sutherland                              |  Field measurements of ice formation in the presence of wave-driven turbulence.     |  Zoom & ESB 5104
-27-Mar   | Sacchidanandan Pillai                         |  TBD                                                           |  Zoom & ESB 5104
+27-Mar   | Sacchidanandan Pillai                         |  Phytoplankton Community Composition from Hyperspectral Optics in the Subarctic Pacific.                         |  Zoom & ESB 5104
 03-Apr   | TBD                                           |  TBD                                                           |  Zoom & ESB 5108
 10-Apr   | No PO Seminar Today!                          |  Happy Easter Break!                                           |  Zoom & ESB 5104
 17-Apr   | Rahim + Rich                                  |  TBD                                                           |  Zoom & ESB 5104
