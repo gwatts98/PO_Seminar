@@ -12,5 +12,5 @@ Date  |  Speaker                                            |  Title            
 27-Mar   | Sacchidanandan Pillai                         |  Phytoplankton Community Composition from Hyperspectral Optics in the Subarctic Pacific.                         |  Zoom & ESB 5104
 03-Apr   | TBD                                           |  TBD                                                           |  Zoom & ESB 5108
 10-Apr   | No PO Seminar Today!                          |  Happy Easter Break!                                           |  Zoom & ESB 5104
-17-Apr   | Rahim + Rich                                  |  TBD                                                           |  Zoom & ESB 5104
-24-Apr   | Wenjing Liu                                   |  TBD                                                           |  Zoom & ESB 5104
+17-Apr   | Rich Pawlowicz                                |  Update of the Surface Drifter Project - current and future work.  |  Zoom & ESB 5104
+24-Apr   | Wenjing Liu                                   |  The Onshore Transport to the Eastern Bering Sea Shelf          |  Zoom & ESB 5104
