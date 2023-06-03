@@ -5,12 +5,13 @@ Date  |  Speaker                                            |  Title            
 19-Jun   | --                    |                               |  Zoom & ESB 5104
 26-Jun   | Jonathan Izett               | TBD                               |  Zoom & ESB 5104
 02-Jul   | No PO Seminar Today!                          |  Happy Canada Day!                                            |  Zoom & ESB 5104
-10-Jul   | Raisha Lovindeer                    | TBD                               |  Zoom & ESB 5104
-17-Jul  | TBD                              | TBD  |  Zoom & ESB 5104
+10-Jul   | Hal Bradbury                   | TBD                               |  Zoom & ESB 5104
+17-Jul  | Raisha Lovindeer                             | TBD  |  Zoom & ESB 5104
 24-Jul   | TBD                                           |  TBD                                                           |  Zoom & ESB 5104
 31-Jul  | TBD                              |      |  Zoom & ESB 5104
 07-Aug   | No PO Seminar Today!                        | August Long Weekend                        |  Zoom & ESB 5104
-14-Aug   | TBD                                           |  TBD                                                           |  Zoom & ESB 5108
-21-Aug  | TBD                         |                                           |  Zoom & ESB 5104
+14-Aug   | TBD                                           |  TBD                                                           |  Zoom & ESB 5104
+21-Aug  | Summer Students?                        |                                           |  Zoom & ESB 5104
 28-Aug   | TBD                               |  |  Zoom & ESB 5104
 04-Sept   | No PO Seminar Today!                                 | TBD          |  Zoom & ESB 5104
+11-Sept  | New Student Carnival? | TBD | Zoom & ESB
