@@ -2,7 +2,7 @@ Date  |  Speaker                                            |  Title            
 ---------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------
 05-Jun   | Birgit Rogalla                              | TBD              |  Zoom & ESB 5104
 12-Jun   | Gabriel Reygondeau                            | TBD                |  Zoom & ESB 5104
-19-Jun   | --                    |                               |  Zoom & ESB 5104
+19-Jun   | TBD                    |                               |  Zoom & ESB 5104
 26-Jun   | Jonathan Izett               | TBD                               |  Zoom & ESB 5104
 02-Jul   | No PO Seminar Today!                          |  Happy Canada Day!                                            |  Zoom & ESB 5104
 10-Jul   | Hal Bradbury                   | TBD                               |  Zoom & ESB 5104
