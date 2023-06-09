@@ -1,7 +1,7 @@
 Date  |  Speaker                                            |  Title                                                                                                |  Room
 ---------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------
-05-Jun   | Birgit Rogalla                              | TBD              |  Zoom & ESB 5104
-12-Jun   | Gabriel Reygondeau                            | TBD                |  Zoom & ESB 5104
+05-Jun   | Birgit Rogalla                              | Tracing Ocean Pathways: Modelling Manganese and Lead in the Canadian Arctic |  Zoom & ESB 5104
+12-Jun   | Gabriel Reygondeau                            | The Aquamap/Aqua-X Project: Modelling the Diversity of Ocean Life |  Zoom & ESB 5104
 19-Jun   | TBD                    |                               |  Zoom & ESB 5104
 26-Jun   | Jonathan Izett               | TBD                               |  Zoom & ESB 5104
 02-Jul   | No PO Seminar Today!                          |  Happy Canada Day!                                            |  Zoom & ESB 5104
