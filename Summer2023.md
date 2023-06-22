@@ -8,7 +8,7 @@ Date  |  Speaker                                            |  Title            
 10-Jul   | Hal Bradbury                   | TBD                               |  Zoom & ESB 5104
 17-Jul  | Raisha Lovindeer                             | TBD  |  Zoom & ESB 5104
 24-Jul   | TBD                                           |  TBD                                                           |  Zoom & ESB 5104
-31-Jul  | TBD                              |      |  Zoom & ESB 5104
+31-Jul  | Tall Abdoul |      |  Zoom & ESB 5104
 07-Aug   | No PO Seminar Today!                        | August Long Weekend                        |  Zoom & ESB 5104
 14-Aug   | TBD                                           |  TBD                                                           |  Zoom & ESB 5104
 21-Aug  | Summer Students?                        |                                           |  Zoom & ESB 5104
