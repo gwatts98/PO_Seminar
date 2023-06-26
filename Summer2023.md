@@ -8,7 +8,7 @@ Date  |  Speaker                                            |  Title            
 10-Jul   | Hal Bradbury | TBD | Zoom & ESB 5104
 17-Jul  | Raisha Lovindeer | TBD  |  Zoom & ESB 5104
 24-Jul   | Susan Allen| TBD | Zoom & ESB 5104
-31-Jul  | Tall Abdoul | TBD | Zoom & ESB 5104
+31-Jul  | Tall Abdoul | Variability of bottom dissolved oxygen on the Senegalese shelf using observations and modelling approach | Zoom & ESB 5104
 07-Aug   | No PO Seminar Today! | August Long Weekend |
 14-Aug   | No PO Seminar Today! | -- | 
 21-Aug  | No PO Seminar Today! | -- | 
