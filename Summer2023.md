@@ -5,7 +5,7 @@ Date  |  Speaker                                            |  Title            
 19-Jun   | -- | -- | 
 26-Jun   | Jonathan Izett | Dynamics in the California Current System |  Zoom & ESB 5104
 02-Jul   | No PO Seminar Today! |  Happy Canada Day! | 
-10-Jul   | Hal Bradbury | TBD | Zoom & ESB 5104
+10-Jul   | Hal Bradbury | Sediment mineralogy influences the rate of microbial sulfate reduction in marine sediments | Zoom & ESB 5104
 17-Jul  | Raisha Lovindeer | TBD  |  Zoom & ESB 5104
 24-Jul   | Susan Allen| TBD | Zoom & ESB 5104
 31-Jul  | Tall Abdoul | Variability of bottom dissolved oxygen on the Senegalese shelf using observations and modelling approach | Zoom & ESB 5104
