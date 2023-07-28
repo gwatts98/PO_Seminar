@@ -11,9 +11,20 @@ Date  |  Speaker                                            |  Title            
 31-Jul  | Tall Abdoul | Variability of bottom dissolved oxygen on the Senegalese shelf using observations and modelling approach | Zoom & ESB 5104
 07-Aug   | No PO Seminar Today! | August Long Weekend |
 14-Aug   | No PO Seminar Today! | -- | 
-21-Aug  | No PO Seminar Today! | -- | 
-28-Aug   | Summer Students? | TBD |  Zoom & ESB 5104
+21-Aug  | Ben Humer and Rich Pawlowicz | -- | Zoom & ESB 5104
+28-Aug   | TBD | TBD |  Zoom & ESB 5104
 04-Sept   | No PO Seminar Today! | Labour Day | 
 11-Sept  | New Student Carnival | TBD | Zoom & ESB 5104
 18-Sept  | Jose Valenti | TBD | Zoom & ESB 5104
 25-Sept  | TBD | TBD | Zoom & ESB 5104
+02-Oct  | No PO Seminar Today!  | Truth and Reconciliation Day | Zoom & ESB 5104
+09-Oct  | No PO Seminar Today!  | Thanksgiving | Zoom & ESB 5104
+16-Oct  | Rich Pawlowicz  | Deep renewals in the Strait of Georgia | Zoom & ESB 5104
+23-Oct  | TBD  | TBD  | Zoom & ESB 5104  
+30-Oct  | TBD  | TBD  | Zoom & ESB 5104
+06-Nov  | TBD  | TBD  | Zoom & ESB 5104
+13-Nov  | No PO Seminar Today  | Remembrance Day  | Zoom & ESB 5104
+20-Nov  | Shumin Li  | TBD  | Zoom & ESB 5104
+27-Nov  | Shumin Li  | TBD  | Zoom & ESB 5104  
+04-Dec  | TBD  | TBD  | Zoom & ESB 5104
+11-Dec  | TBD  | TBD  | Zoom & ESB 5104  
