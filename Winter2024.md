@@ -2,7 +2,7 @@ Date  |  Speaker                                            |  Title            
 ---------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------
 04-Sept  | No PO Seminar Today! | Labour Day | 
 15-Sept  | New Student Carnival | TBD | Zoom & ESB 5104
-22-Sept  | No PO Seminar Today | TBD | Zoom & ESB 5104
+22-Sept  | Rosie Eaves | Parameterizing mesoscale ocean eddies over bottom topography  | Zoom & ESB 5104
 29-Sept  | Yulia Egorova | TBD | Zoom & ESB 5104
 06-Oct  | No PO Seminar Today  | TBD | Zoom & ESB 5104
 13-Oct  | Jose Valenti  | TBD | Zoom & ESB 5104
