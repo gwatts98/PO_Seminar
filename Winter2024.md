@@ -3,9 +3,9 @@ Date  |  Speaker                                            |  Title            
 04-Sept  | No PO Seminar Today! | Labour Day | 
 15-Sept  | New Student Carnival | TBD | Zoom & ESB 5104
 22-Sept  | Rosie Eaves | Parameterizing mesoscale ocean eddies over bottom topography  | Zoom & ESB 5104
-29-Sept  | Yulia Egorova | TBD | Zoom & ESB 5104
+29-Sept  | Yulia Egorova | Global Distribution and Biomass of the Mesopelagic Mesozooplankton | Zoom & ESB 5104
 06-Oct  | No PO Seminar Today  | TBD | Zoom & ESB 5104
-13-Oct  | Jose Valenti  | TBD | Zoom & ESB 5104
+13-Oct  | Jose Valenti  | Microfibres Dynamics in the Salish Sea | Zoom & ESB 5104
 20-Oct  | Rich Pawlowicz  | Deep Renewals in the Strait of Georgia | Zoom & ESB 5104
 23-Oct  | Cheryl Greengrove  | Harmful Algal Blooms in Puget Sound  | Zoom & ESB 5104  
 03-Nov  | TBD  | TBD  | Zoom & ESB 5104
