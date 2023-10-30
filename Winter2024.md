@@ -9,8 +9,8 @@ Date  |  Speaker                                            |  Title            
 20-Oct  | Rich Pawlowicz  | Deep Renewals in the Strait of Georgia | Zoom & ESB 5104
 23-Oct  | Cheryl Greengrove  | Harmful Algal Blooms in Puget Sound  | Zoom & ESB 5104  
 03-Nov  | Bernie Yang  | TBD  | Zoom & ESB 5104
-10-Nov  | Shumin Li  | TBD  | Zoom & ESB 5108
-17-Nov  | Shumin Li  | TBD  | Zoom & ESB 5106
+10-Nov  | Shumin Li  | Ocean Turbulence Mini Lecture 1: Introduction, Theory, and Measurement  | Zoom & ESB 5108
+17-Nov  | Shumin Li  | Ocean Turbulence Mini Lecture 2: Turbulence in the Boundary Layers and River Plumes  | Zoom & ESB 5106
 24-Nov  | Manuel Columbo  | TBD  | Zoom & ESB 5108
 01-Dec  | Mathilde Jutras  | The physical and biogeochemical drivers of deoxygenation in the Lower St Lawrence Estuary and Gulf  | Zoom & ESB 5104
 08-Dec  | Co-op Students? | TBD  | Zoom & ESB 5104  
