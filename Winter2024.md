@@ -11,6 +11,6 @@ Date  |  Speaker                                            |  Title            
 03-Nov  | Bernie Yang  | Characterizing the lateral mixing of mesoscale eddies using underwater gliders  | Zoom & ESB 5104
 10-Nov  | Shumin Li  | Ocean Turbulence Mini Lecture 1: Introduction, Theory, and Measurement  | Zoom & ESB 5108
 17-Nov  | Shumin Li  | Ocean Turbulence Mini Lecture 2: Turbulence in the Boundary Layers and River Plumes  | Zoom & ESB 5106
-24-Nov  | Manuel Columbo  | TBD  | Zoom & ESB 5108
+24-Nov  | Manuel Columbo  | Biogeochemistry Across Boundaries: Some stories about trace element and organic carbon cycling in disparate environments | Zoom & ESB 5108
 01-Dec  | Mathilde Jutras  | The physical and biogeochemical drivers of deoxygenation in the Lower St Lawrence Estuary and Gulf  | Zoom & ESB 5104
 08-Dec  | Co-op Students? | TBD  | Zoom & ESB 5104  
