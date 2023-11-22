@@ -14,3 +14,12 @@ Date  |  Speaker                                            |  Title            
 24-Nov  | Manuel Columbo  | Biogeochemistry Across Boundaries: Some stories about trace element and organic carbon cycling in disparate environments | Zoom & ESB 5108
 01-Dec  | Mathilde Jutras  | The physical and biogeochemical drivers of deoxygenation in the Lower St Lawrence Estuary and Gulf  | Zoom & ESB 5104
 08-Dec  | Co-op Students? | TBD  | Zoom & ESB 5104  
+08-Jan  | TBD | Susan Allen  | Zoom & ESB 5108  
+15-Jan  | TBD | Ilias Bougoudis  | Zoom & ESB 5108  
+22-Jan  | TBD | Pouneh Hoshyar | Zoom & ESB 5108  
+29-Jan  | TBD | TBD  | Zoom & ESB 5108  
+05-Feb  | TBD | Shawn Wang | Zoom & ESB 5104
+12-Feb  | TBD | OSM Practice talks? | Zoom & ESB 5104
+19-Feb  | No PO Seminar | OSM Week | Zoom & ESB 5104
+26-Feb  | TBD | TBD | Zoom & ESB 5104
+05-Mar  | TBD | Johanna Länger | Zoom & ESB 5104
