@@ -17,9 +17,17 @@ Date  |  Speaker                                            |  Title            
 08-Jan  | TBD | Susan Allen  | Zoom & ESB 5108  
 15-Jan  | TBD | Ilias Bougoudis  | Zoom & ESB 5108  
 22-Jan  | TBD | Pouneh Hoshyar | Zoom & ESB 5108  
-29-Jan  | TBD | TBD  | Zoom & ESB 5108  
+29-Jan  | TBD | Karyn Suchy  | Zoom & ESB 5108  
 05-Feb  | TBD | Shawn Wang | Zoom & ESB 5104
 12-Feb  | TBD | OSM Practice talks? | Zoom & ESB 5104
-19-Feb  | No PO Seminar | OSM Week | Zoom & ESB 5104
+19-Feb  | No PO Seminar | Family Day | Zoom & ESB 5104
 26-Feb  | TBD | TBD | Zoom & ESB 5104
 05-Mar  | TBD | Johanna Länger | Zoom & ESB 5104
+11-Mar  | TBD | TBD | Zoom & ESB 5104
+18-Mar  | TBD | Leonardo Alvarado | Zoom & ESB 5104
+25-Mar  | TBD | TBD | Zoom & ESB 5104
+01-Apr  | No PO Seminar | Easter | Zoom & ESB 5104
+08-Apr  | TBD | TBD | Zoom & ESB 5104
+15-Apr  | TBD | TBD | Zoom & ESB 5104
+22-Apr  | TBD | TBD | Zoom & ESB 5104
+29-Apr  | TBD | TBD | Zoom & ESB 5104
