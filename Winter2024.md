@@ -13,7 +13,8 @@ Date  |  Speaker                                            |  Title            
 17-Nov  | Shumin Li  | Ocean Turbulence Mini Lecture 2: Turbulence in the Boundary Layers and River Plumes  | Zoom & ESB 5106
 24-Nov  | Manuel Columbo  | Biogeochemistry Across Boundaries: Some stories about trace element and organic carbon cycling in disparate environments | Zoom & ESB 5108
 01-Dec  | Mathilde Jutras  | The physical and biogeochemical drivers of deoxygenation in the Lower St Lawrence Estuary and Gulf  | Zoom & ESB 5104
-08-Dec  | Co-op Students? | TBD  | Zoom & ESB 5104  
+08-Dec  |  | TBD  | Zoom & ESB 5104
+15-Dec  |  | Winnie Wen  | Zoom & ESB 5104 
 08-Jan  | TBD | Susan Allen  | Zoom & ESB 5108  
 15-Jan  | TBD | Ilias Bougoudis  | Zoom & ESB 5108  
 22-Jan  | TBD | Pouneh Hoshyar | Zoom & ESB 5108  
