@@ -26,7 +26,7 @@ Date  |  Speaker                                            |  Title            
 05-Mar  | TBD | Johanna Länger | Zoom & ESB 5104
 11-Mar  | TBD | TBD | Zoom & ESB 5104
 18-Mar  | TBD | Leonardo Alvarado | Zoom & ESB 5104
-25-Mar  | TBD | TBD | Zoom & ESB 5104
+25-Mar  | TBD | Michaela Maier | Zoom & ESB 5104
 01-Apr  | No PO Seminar | Easter | Zoom & ESB 5104
 08-Apr  | TBD | TBD | Zoom & ESB 5104
 15-Apr  | TBD | TBD | Zoom & ESB 5104
