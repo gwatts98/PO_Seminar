@@ -1,4 +1,4 @@
-Date  |  Speaker                                            |  Title                                                                                                |  Room
+Date  |  Title                                            |  Speaker                                                                                                |  Room
 ---------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------
 15-Dec  | (1) Deep Into Gravity Currents in the Strait of Georgia and (2) Characterizing the Iona Outfall Plume using SalishSeaCast | Winnie Wen (1) and Susan Allen (2) | Zoom & ESB 5104 
 08-Jan  | TBD | Susan Allen  | Zoom & ESB 5108  
