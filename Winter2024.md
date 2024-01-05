@@ -1,8 +1,6 @@
 Date  |  Title                                            |  Speaker                                                                                                |  Room
 ---------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------
-15-Dec  | (1) Deep Into Gravity Currents in the Strait of Georgia and (2) Characterizing the Iona Outfall Plume using SalishSeaCast | Winnie Wen (1) and Susan Allen (2) | Zoom & ESB 5104 
-08-Jan  | Anomalies in the Salish Sea due to Low Fraser River Flow in July 2023:
-SalishSeaCast View | Susan Allen  | Zoom & ESB 5108  
+08-Jan  | Anomalies in the Salish Sea due to Low Fraser River Flow in July 2023: SalishSeaCast View | Susan Allen | Zoom & ESB 5108  
 15-Jan  | TBD | Ilias Bougoudis  | Zoom & ESB 5108  
 22-Jan  | TBD | Pouneh Hoshyar | Zoom & ESB 5108  
 29-Jan  | TBD |   | Zoom & ESB 5108  
