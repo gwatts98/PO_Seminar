@@ -16,4 +16,4 @@ Date  |  Title                                            |  Speaker            
 08-Apr  | TBD | TBD | Zoom & ESB 5104
 15-Apr  | TBD | TBD | Zoom & ESB 5104
 22-Apr  | TBD | TBD | Zoom & ESB 5104
-29-Apr  | TBD | TBD | Zoom & ESB 5104
+29-Apr  | TBD | Nadine Lehman | Zoom & ESB 5104
