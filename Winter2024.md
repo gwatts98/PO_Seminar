@@ -1,8 +1,8 @@
 Date  |  Title                                            |  Speaker                                                                                                |  Room
 ---------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------
 08-Jan  | Anomalies in the Salish Sea due to Low Fraser River Flow in July 2023: SalishSeaCast View | Susan Allen | Zoom & ESB 5108  
-15-Jan  | TBD | Ilias Bougoudis  | Zoom & ESB 5108  
-22-Jan  | TBD | Pouneh Hoshyar | Zoom & ESB 5108  
+15-Jan  | Monitoring of the Atmospheric Composition, Using Machine Learning, Remote Sensing and Ground-Based Instruments. | Ilias Bougoudis  | Zoom & ESB 5108  
+22-Jan  | TBD |  | Zoom & ESB 5108  
 29-Jan  | TBD |   | Zoom & ESB 5108  
 05-Feb  | TBD | Shawn Wang | Zoom & ESB 5104
 12-Feb  | TBD | OSM Practice talks? | Zoom & ESB 5104
