@@ -7,13 +7,13 @@ Date  |  Title                                            |  Speaker            
 05-Feb  | TBD | Shawn Wang | Zoom & ESB 5104
 12-Feb  | TBD | OSM Practice talks? | Zoom & ESB 5104
 19-Feb  | No PO Seminar | Family Day | Zoom & ESB 5104
-26-Feb  | TBD | TBD | Zoom & ESB 5104
+26-Feb  | TBD | Patrick Pata | Zoom & ESB 5104
 05-Mar  | TBD | Johanna Länger | Zoom & ESB 5104
-11-Mar  | TBD | TBD | Zoom & ESB 5104
+11-Mar  | TBD | Lualawi Admasu | Zoom & ESB 5104
 18-Mar  | TBD | Leonardo Alvarado | Zoom & ESB 5104
 25-Mar  | TBD | Michaela Maier | Zoom & ESB 5104
 01-Apr  | No PO Seminar | Easter | Zoom & ESB 5104
 08-Apr  | TBD | TBD | Zoom & ESB 5104
-15-Apr  | TBD | TBD | Zoom & ESB 5104
-22-Apr  | TBD | TBD | Zoom & ESB 5104
+15-Apr  | TBD | Morgan Griffith | Zoom & ESB 5104
+22-Apr  | TBD | Kirsten Zickfeld | Zoom & ESB 5104
 29-Apr  | TBD | Nadine Lehman | Zoom & ESB 5104
