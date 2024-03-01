@@ -4,11 +4,11 @@ Date  |  Title                                            |  Speaker            
 15-Jan  | Monitoring of the Atmospheric Composition, Using Machine Learning, Remote Sensing and Ground-Based Instruments. | Ilias Bougoudis  | Zoom & ESB 5108  
 22-Jan  | No PO Seminar |  | Zoom & ESB 5108  
 29-Jan  | TReX Deep: a tracer release experiment to measure subsurface transport and mixing in the Gulf of St. Lawrence | Sam Stevens | Zoom & ESB 5108  
-05-Feb  | TBD | Shawn Wang | Zoom & ESB 5104
+05-Feb  | Freshwater advection modulates Indonesian Throughflow surface transport on decadal timescales | Shawn Wang | Zoom & ESB 5104
 12-Feb  | TBD | OSM Practice talks? | Zoom & ESB 5104
 19-Feb  | No PO Seminar | Family Day | Zoom & ESB 5104
-26-Feb  | TBD | Patrick Pata | Zoom & ESB 5104
-05-Mar  | TBD | Johanna Länger | Zoom & ESB 5104
+26-Feb  | Structure and functioning of zooplankton communities of the Canadian Northeast Pacific Ocean  | Patrick Pata | Zoom & ESB 5104
+04-Mar  | A modelling perspective on Ocean Acidification and the Carbon Budget in the surface waters of the Canadian Arctic Archipelago  | Jo Länger | Zoom & ESB 5104
 11-Mar  | TBD | Lualawi Admasu | Zoom & ESB 5104
 18-Mar  | TBD | Leonardo Alvarado | Zoom & ESB 5104
 25-Mar  | TBD | Michaela Maier | Zoom & ESB 5104
