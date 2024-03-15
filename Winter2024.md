@@ -10,7 +10,7 @@ Date  |  Title                                            |  Speaker            
 26-Feb  | Structure and functioning of zooplankton communities of the Canadian Northeast Pacific Ocean  | Patrick Pata | Zoom & ESB 5104
 04-Mar  | A modelling perspective on Ocean Acidification and the Carbon Budget in the surface waters of the Canadian Arctic Archipelago  | Jo Länger | Zoom & ESB 5104
 11-Mar  | Quasistationary rossby waves in the midlatitude atmosphere | Lualawi Admasu | Zoom & ESB 5104
-18-Mar  | TBD | Leonardo Alvarado | Zoom & ESB 5104
+18-Mar  |  Retrievals of the main phytoplankton groups at lake Constance and globally using OLCI and TROPOMI and evaluated with field observations | Leonardo Alvarado | Zoom & ESB 5106
 25-Mar  | TBD | Michaela Maier | Zoom & ESB 5104
 01-Apr  | No PO Seminar | Easter | Zoom & ESB 5104
 08-Apr  | TBD | TBD | Zoom & ESB 5104
