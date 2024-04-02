@@ -16,4 +16,4 @@ Date  |  Title                                            |  Speaker            
 08-Apr  | TBD | Morgan Griffith | Zoom & ESB 5104
 15-Apr  | TBD | Pouneh Hoyshar | Zoom & ESB 5104
 22-Apr  | TBD | Kirsten Zickfeld | Zoom & ESB 5104
-29-Apr  | TBD |  | Zoom & ESB 5104
+29-Apr  | TBD | Ellie Hu | Zoom & ESB 5104
