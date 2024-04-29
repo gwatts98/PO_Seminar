@@ -16,4 +16,4 @@ Date  |  Title                                            |  Speaker            
 08-Apr  | A Method for Determining the Fraction of Organic Carbon from Microplastics in Wastewater Sludge by Measuring its 14C Content | Morgan Griffith | Zoom & ESB 5104
 15-Apr  | Studying the Labrador Sea for Ocean and Climate Implications | Pouneh Hoyshar | Zoom & ESB 5104
 22-Apr  | TBD | Kirsten Zickfeld | Zoom & ESB 5104
-29-Apr  | TBD | Ellie Hu | Zoom & ESB 5104
+29-Apr  | Strait of Georgia Datasets intercomparison: Pacific Salmon foundation, Fisheries and ocean canada, Washington State and Hakai foundation archives | Ellie Hu | Zoom & ESB 5104
