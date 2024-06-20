@@ -3,9 +3,7 @@ Date  |  Title                                            |  Speaker            
 06-May  | No Seminar
 13-May  | No Seminar - Prodigy Field School
 20-May  | Oceanographic research in Patagonian fjords: sharing experiences and new projects | Dr. Ivan Perez-Santos | Zoom & ESB 5104
-27-May  | Estuarine exchange and tidally mixed flows through inter-connected pathways in the Salish Sea; 
-Evaluations of a 3D numerical model of the Salish Sea in small river plume regions; 
-Tidewater Glacier Influence on the Marine Environment in the Canadian Arctic Archipelago | Camryn Stang; Cassidy Donaldson; Claire Parrott | Zoom & ESB 5104
+27-May  | Estuarine exchange and tidally mixed flows through inter-connected pathways in the Salish Sea; Evaluations of a 3D numerical model of the Salish Sea in small river plume regions; Tidewater Glacier Influence on the Marine Environment in the Canadian Arctic Archipelago | Camryn Stang; Cassidy Donaldson; Claire Parrott | Zoom & ESB 5104
 03-June  | No Seminar - CMOS
 10-June  | Prodigy Presentations - The PEARL lab; Drifters | Rebecca Rust, Sacchi Pillai, and Christina Kong; Rebecca Brooks and Jamie Daniel | Zoom & ESB 5104
 17-June  | Controls on Exchange through a Tidal Mixing Hotspot at an Estuary Constriction | Susan Allen | Zoom & ESB 5104
