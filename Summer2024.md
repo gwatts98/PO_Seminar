@@ -7,14 +7,14 @@ Date  |  Title                                            |  Speaker            
 03-June  | No Seminar - CMOS
 10-June  | Prodigy Presentations - The PEARL lab; Drifters | Rebecca Rust, Sacchi Pillai, and Christina Kong; Rebecca Brooks and Jamie Daniel | Zoom & ESB 5104
 17-June  | Controls on Exchange through a Tidal Mixing Hotspot at an Estuary Constriction | Susan Allen | Zoom & ESB 5104
-24-June  | TBD | Stephanie Waterman | Zoom & ESB 5104
+24-June  | Turbulence Lecture | Stephanie Waterman | Zoom & ESB 5104
 01-July  | No Seminar - holiday
-08-July  | TBD | Birgit | Zoom & ESB 5104
-15-July  | TBD
+08-July  | TBD | Birgit Rogalla | Zoom & ESB 5104
+15-July  | TBD |
 22-July  | TBD | Lindsey Heagy | Zoom & ESB 5104
 01-Aug  | TBD | Co-op Student Presentations | Zoom & ESB 5104
-05-Aug  | TBD
-12-Aug  | TBD
-19-Aug  |
-26-Aug  |
+05-Aug  | TBD |
+12-Aug  | TBD |
+19-Aug  | TBD |
+26-Aug  | TBD |
 
