@@ -13,7 +13,7 @@ Date  |  Title                                            |  Speaker            
 15-July  | TBD | Taylor Swift-LaPoint | Zoom & ESB 5104
 22-July  | TBD | Lindsey Heagy | Zoom & ESB 5104
 01-Aug  | TBD | Co-op Student Presentations | Zoom & ESB 5104
-05-Aug  | TBD |
+05-Aug  | TBD | Zhiguo He | Zoom & ESB 5104
 12-Aug  | TBD |
 19-Aug  | TBD |
 26-Aug  | TBD |
