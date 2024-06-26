@@ -10,7 +10,7 @@ Date  |  Title                                            |  Speaker            
 24-June  | An Introduction to Turbulence and Mixing in the Ocean | Stephanie Waterman | Zoom & ESB 5104
 01-July  | No Seminar - holiday
 08-July  | TBD | Birgit Rogalla | Zoom & ESB 5104
-15-July  | TBD | Taylor Swift-LaPoint | Zoom & ESB 5104
+15-July  | A hybrid forecast of seasonal streamflow using dynamical seasonal forecasts and Long Short-Term Memory (LSTM) neural networks | Taylor Swift-LaPoint | Zoom & ESB 5104
 22-July  | TBD | Lindsey Heagy | Zoom & ESB 5104
 01-Aug  | TBD | Co-op Student Presentations | Zoom & ESB 5104
 05-Aug  | TBD | Zhiguo He | Zoom & ESB 5104
