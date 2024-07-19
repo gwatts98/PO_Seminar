@@ -11,7 +11,7 @@ Date  |  Title                                            |  Speaker            
 01-July  | No Seminar - holiday
 08-July  | Linking human activities to ocean-driven melt of the West Antarctic Ice Sheet | Birgit Rogalla | Zoom & ESB 5104
 15-July  | A hybrid forecast of seasonal streamflow using dynamical seasonal forecasts and Long Short-Term Memory (LSTM) neural networks | Taylor Swift-LaPointe | Zoom & ESB 5104
-22-July  | TBD | Lindsey Heagy | Zoom & ESB 5104
+22-July  | Imaging the subsurface from shallow to deep | Lindsey Heagy | Zoom & ESB 5104
 01-Aug  | TBD | Co-op Student Presentations | Zoom & ESB 5104
 05-Aug  | TBD | Zhiguo He | Zoom & ESB 5104
 12-Aug  | TBD |
