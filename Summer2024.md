@@ -13,8 +13,8 @@ Date  |  Title                                            |  Speaker            
 15-July  | A hybrid forecast of seasonal streamflow using dynamical seasonal forecasts and Long Short-Term Memory (LSTM) neural networks | Taylor Swift-LaPointe | Zoom & ESB 5104
 22-July  | Imaging the subsurface from shallow to deep | Lindsey Heagy | Zoom & ESB 5104
 01-Aug  | Comparison of Mixing in the Arctic Ocean in 3 different Climate Models | Co-op Student Presentations | Zoom & ESB 5104
-05-Aug  | TBD | Zhiguo He | Zoom & ESB 5104
-12-Aug  | TBD |
-19-Aug  | TBD |
+05-Aug  | No Seminar - Holiday
+12-Aug  | From Atmospheric Waves to Heatwaves - Connecting Atmospheric Waviness to Surface Heat Extremes | Rachel White | Zoom & ESB 5104
+19-Aug  | Gravity currents in estuaries and their relevant mechanisms | Zhiguo He | Zoom & ESB 5104
 26-Aug  | TBD |
 
