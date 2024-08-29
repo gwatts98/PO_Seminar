@@ -16,5 +16,4 @@ Date  |  Title                                            |  Speaker            
 05-Aug  | No Seminar - Holiday
 12-Aug  | From Atmospheric Waves to Heatwaves - Connecting Atmospheric Waviness to Surface Heat Extremes | Rachel White | Zoom & ESB 5104
 19-Aug  | Gravity currents in estuaries and their relevant mechanisms | Zhiguo He | Zoom & ESB 5104
-26-Aug  | TBD |
-
+26-Aug  | No seminar
