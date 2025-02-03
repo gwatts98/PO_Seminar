@@ -1,8 +1,8 @@
 Date  |  Title                                            |  Speaker                                                                                                |  Room
 ---------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------
 Jan | No seminar | 
-Feb 7 | Large-scale gyres in the Nordic Seas and Arctic Ocean: wind-driven or eddy-driven? | Pål Erik Isachsen
-Feb 14 | Glacier-Ocean Interactions in the Canadian Arctic and Implications on Freshwater Dynamics | Claire Parrott
+Feb 7 | Large-scale gyres in the Nordic Seas and Arctic Ocean: wind-driven or eddy-driven? | Pål Erik Isachsen | 5106
+Feb 14 | Glacier-Ocean Interactions in the Canadian Arctic and Implications on Freshwater Dynamics | Claire Parrott | 5104
 Feb 21 | TBD |
 Feb 28 |
 Mar 7 |
