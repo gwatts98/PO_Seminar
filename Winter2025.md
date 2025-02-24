@@ -1,20 +1,20 @@
 Date  |  Title                                            |  Speaker                                                                                                |  Room
 ---------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|------
 Jan | No seminars | 
-Feb 7 | Large-scale gyres in the Nordic Seas and Arctic Ocean: wind-driven or eddy-driven? | Pål Erik Isachsen | 5106
-Feb 14 | Glacier-Ocean Interactions in the Canadian Arctic and Implications on Freshwater Dynamics | Claire Parrott | 5104
+Feb 7 | Large-scale gyres in the Nordic Seas and Arctic Ocean: wind-driven or eddy-driven? | Pål Erik Isachsen | 5106 and zoom
+Feb 14 | Glacier-Ocean Interactions in the Canadian Arctic and Implications on Freshwater Dynamics | Claire Parrott | 5104 and zoom
 Feb 21 | No seminar |
-Feb 28 | TBD | Yayla Sezginer | 5104
-Mar 7 |
-Mar 14 |
-Mar 21 |
-Mar 28 |
-April 4 |
-April 11 |
-April 18 |
-April 25 |
-May 2 |
-May 9 |
-May 16 |
-May 23 |
-May 30 |
+Feb 28 | Resolving fine-scale variability in phytoplankton growth and physiology with Chlorophyll fluorescence | Yayla Sezginer | 5104 and zoom
+Mar 7 | TBD | 
+Mar 14 | TBD |
+Mar 21 | TBD |
+Mar 28 | TBD | Matthew Alford | 5104 and zoom
+April 4 | TBD |
+April 11 | TBD |
+April 18 | TBD |
+April 25 | TBD |
+May 2 | TBD |
+May 9 | TBD |
+May 16 | TBD |
+May 23 | TBD |
+May 30 | TBD |
