@@ -5,11 +5,11 @@ Feb 7 | Large-scale gyres in the Nordic Seas and Arctic Ocean: wind-driven or ed
 Feb 14 | Glacier-Ocean Interactions in the Canadian Arctic and Implications on Freshwater Dynamics | Claire Parrott | 5104 and zoom
 Feb 21 | No seminar |
 Feb 28 | Resolving fine-scale variability in phytoplankton growth and physiology with Chlorophyll fluorescence | Yayla Sezginer | 5104 and zoom
-Mar 7 | TBD | 
+Mar 7 | No seminar | 
 Mar 14 | TBD |
 Mar 21 | TBD |
 Mar 28 | TBD | Matthew Alford | 5104 and zoom
-April 4 | TBD |
+April 4 | TBD | Sherif Ibrahim | 5104 and zoom
 April 11 | TBD |
 April 18 | TBD |
 April 25 | TBD |
