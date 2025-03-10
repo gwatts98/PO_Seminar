@@ -7,7 +7,7 @@ Feb 21 | No seminar |
 Feb 28 | Resolving fine-scale variability in phytoplankton growth and physiology with Chlorophyll fluorescence | Yayla Sezginer | 5104 and zoom
 Mar 7 | No seminar | 
 Mar 14 | Prodigy Field School Projects pt. 1 | Grace Watts, Becca Rust, Christina Kong, Hayden Amidon, Becky Brooks; Lauryn Talbot, Jamie Daniels, Gina Nickoloff; Vicente Valenzuela, Sofía Palacios | 5104 and zoom
-Mar 21 | Prodigy Field School Projects pt. 2 | Kat Benevidas, Adolfo Alvarez; Aiden Parfett, Catalina LLancaleo, Nataly Antipil, Luz Monsalvez, Juan Rojas, Francisca Chirino| 5104 and zoom
+Mar 21 | Prodigy Field School Projects pt. 2 | Kat Benevidas, Adolfo Alvarez; Aiden Parfett, Catalina Llancaleo, Nataly Antipil, Luz Monsalvez, Juan Rojas, Francisca Chirino| 5104 and zoom
 Mar 28 | TBD | Matthew Alford | 5104 and zoom
 April 4 | TBD | Sherif Ibrahim | 5104 and zoom
 April 11 | TBD |
