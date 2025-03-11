@@ -11,7 +11,7 @@ Mar 21 | Prodigy Field School Projects pt. 2 | Kat Benevidas, Adolfo Alvarez; Ai
 Mar 28 | TBD | Matthew Alford | 5104 and zoom
 April 4 | TBD | Sherif Ibrahim | 5104 and zoom
 April 11 | TBD |
-April 18 | TBD |
+April 18 | TBD | Manuel Torres Godoy |
 April 25 | TBD |
 May 2 | TBD |
 May 9 | TBD |
