@@ -13,7 +13,7 @@ April 4 | No seminar |
 April 11 | TBD | Emma Boland | 5104 and zoom
 April 18 | No seminar - holiday |
 April 25 | El Niño Driven Variability of Deep Ocean Circulation in the Southeast Pacific | Manuel Torres Godoy | 5104 and zoom
-May 2 | TBD |
+May 2 | TBD | Griffon - co-op student |
 May 9 | TBD |
 May 16 | TBD | Sherif Ibrahim | 5104 and zoom
 May 23 | TBD |
