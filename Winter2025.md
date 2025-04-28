@@ -13,8 +13,8 @@ April 4 | No seminar |
 April 11 | How Winds Control Key North Atlantic Transports: Arctic freshwater and the AMOC | Emma Boland | 5104 and zoom
 April 18 | No seminar - holiday |
 April 25 | El Niño Driven Variability of Deep Ocean Circulation in the Southeast Pacific | Manuel Torres Godoy | 5106 and zoom
-May 2 | TBD | Griffon - co-op student |
+May 2 | Final Updates to an Oceanographic Atlas of the Strait of Georgia and Beyond | Griffon Hoeven | 5104 and zoom
 May 9 | TBD |
-May 16 | TBD | Sherif Ibrahim | 5104 and zoom
+May 16 | TBD | Sherif Ibrahim | 5108 and zoom
 May 23 | TBD |
 May 30 | TBD |
